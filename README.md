@@ -1,7 +1,7 @@
 Hi 👋 My name is Ayomide Adeniyi
 ================================
 
-Web App Developer
+Flask Developer
 -----------------
 
 * 🌍  I'm based in lagos
