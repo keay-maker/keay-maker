@@ -5,7 +5,7 @@ Flask Developer
 -----------------
 
 * 🌍  I'm based in lagos
-* ✉️  You can contact me at [ayomadeniyi@outlook.com](mailto:ayomadeniyi@outlook.com)
+* ✉️  You can contact me at [ayomadeniyi@outlook.com](mailto:keemeayo@hotmail.com)
 * 🧠  I'm learning flask
 * 🤝  I'm open to collaborating on interesting projects
 * 🖥️  See my portfolio at [Portfolio](http://ayo-folio.vercel.app)
