@@ -7,6 +7,7 @@ Flask Developer
 * 🌍  I'm based in lagos
 * ✉️  You can contact me at [ayomadeniyi@outlook.com](mailto:keemeayo@hotmail.com)
 * 🧠  I'm learning flask
+* 🌴  I'm learning Currently Studying: Computer Engineering - (Learning C fundamentals, OOP with C++, and Basics of Discrete Maths)
 * 🤝  I'm open to collaborating on interesting projects
 * 🖥️  See my portfolio at [Portfolio](http://ayo-folio.vercel.app)
 
